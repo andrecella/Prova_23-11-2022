@@ -1,4 +1,4 @@
-esenvolver uma aplicação utilizando spring-boot;
+Desenvolver uma aplicação utilizando spring-boot;
 
 Essa aplicação deve permitir o cadastro, alteração, consulta e exclusão das entidades abaixo através de API's REST.
 
