@@ -1,0 +1,17 @@
+esenvolver uma aplicação utilizando spring-boot;
+
+Essa aplicação deve permitir o cadastro, alteração, consulta e exclusão das entidades abaixo através de API's REST.
+
+Entidades:  
+    Pessoa:  Possui nome, sobrenome, cpf, rg e endereços (pode ter mais do que um)
+    Endereço:  Possui cep, logradouro, número,  complemento.
+
+A aplicação deve conter as camadas de controller, entities, repositories e services.
+
+Deve ser anexado à repositório uma collection do postman com exemplos das chamadas as API's. 
+
+Deve ser criado um novo projeto no github, onde o código da aplicação deve ser postado.
+
+A entrega da atividade consiste na postagem do link com o código fonte no github.
+
+Alterações comitadas após o horário da prova não serão consideradas.
